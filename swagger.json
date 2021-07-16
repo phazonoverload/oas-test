@@ -553,6 +553,7 @@
         "tags": [
           "Activities"
         ],
+        "description": "Use this endpoint to look at activities at a workspace-level.",
         "security": [
           {
             "bearer": []
